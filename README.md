@@ -5,12 +5,12 @@ and selecting actions to efficiently reach a goal. The agent interacts with an e
 simulator through a defined input/output interface and demonstrates core AI decision-making
 concepts such as perception, policy design, and control.
 
-This project was originally developed as part of an Intro to AI course and has been
-refactored into a standalone, portfolio-ready repository.
+This project was originally developed as part of an Exploratory AI course and has been
+refactored into a standalone repository.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - At each timestep, the agent receives a **state vector** representing the 8 surrounding
   cells in the maze (walls, free space, goal, etc.).
